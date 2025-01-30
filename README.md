@@ -1,0 +1,3 @@
+# React Router Dom v6 Nested Routes and Parameters Issue
+
+This repository demonstrates a common issue encountered when using nested routes and route parameters in React Router Dom v6.  The problem arises when a route with parameters is nested within other routes, resulting in unexpected rendering behavior. The User component fails to display correctly.  The solution involves restructuring the routes or using a different approach for handling nested routes with parameters. See the solution file for correction.
